@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pertemuan 8</title>
+</head>
+<body>
+    <center><h1>Curriculum Vitae</h1></center>
+<center><img src="Rudi dw.jpg" width="200px" ></center>
+<h2>DATA DIRI</h2>
+<table border="1" cellpadding="10">
+  <tr>
+    <td>Nama Lengkap</td>
+    <td>Qomarudin</td>
+  </tr>
+  <tr>
+    <td>Tanggal Lahir</td>
+    <td>15 Maret 2002</td>
+  </tr>
+  <tr>
+    <td>Alamat</td>
+    <td>Dusun Bangunrejo,Desa Pesucen,Kec. Kalipuro,Kab. Banyuwangi </td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>johnrudy87@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Telepon</td>
+    <td>+62 : 82144699662</td>
+  </tr>
+</table>
+
+<h2>RIWAYAT PENDIDIKAN</h2>
+<table border="1" cellpadding="10">
+  <tr>
+    <td>2008 - 2014</td>
+    <td>SD Negeri 1 Pesucen</td>
+  </tr>
+  <tr>
+    <td>2014 - 2017</td>
+    <td>SMP Negeri 2 Kalipuro</td>
+  </tr>
+    <tr>
+    <td>2017 - 2020</td>
+    <td>MA Darul Huda, Jurusan IPA</td>
+  </tr>
+  <tr>
+    <td>2022 - Sekarang</td>
+    <td>Stikom PGRI Banyuwangi, Jurusan S1 Teknik Informatika</td>
+  </tr>
+</table>
+
+<h2>PENGALAMAN KERJA / ORGANISASI</h2>
+<table border="1" cellpadding="10">
+  <tr>
+    <td>2020-2021 </td>
+    <td>Kafe Wareg kota Malang</td>
+    <left><img src="malangpp.jpg" width="200px" ></left>
+</tr>
+</table>
+
+<table border="1" cellpadding="10">
+<tr>
+    <td>2021-2022 </td>
+    <td>RS Yasmin Banyuwangi </td>
+    <left><img src="yasminpp.jpg" width="200px" ></left>
+  </tr>
+</table>
+
+<h2>HARD SKILL</h2>
+<ul>
+  <li>Database (MySQL, dan MongoDB)</li>
+  <li>Web Development (HTML, dan CSS)</li>
+  <li>Programming (Java,Python)</li>
+</ul>
+
+<h2>Video</h2>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/1TmpeJO81PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clc ipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<h2>Audio</h2>
+<center><audio controls>
+  <source src="dw (1).mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></center>
+</body>
+</html>
